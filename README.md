@@ -11,17 +11,17 @@ We will create a private blockchain network of two accounts and carry
 out mining and do some transactions between them for ethers.
 
 **Steps to check transaction:**
-0\. Change directory to FirstEthereum and follow the procedure.
-1\. Launch a geth console.
-2\. To check balance.
-3\. Now we’ve got some ether in the first account, let’s send it to the
+0. Change directory to FirstEthereum and follow the procedure.
+1. Launch a geth console.
+2. To check balance.
+3. Now we’ve got some ether in the first account, let’s send it to the
 2nd account we created. The source account has to be unlocked before it
 can send a transaction.
 **Password for both account:** ***node1***
-4\. Now transferring some ethers to account 2.
-5\. The ethers wont be sent until a miners validates the transaction.
+4. Now transferring some ethers to account 2.
+5. The ethers wont be sent until a miners validates the transaction.
 Since there are no other nodes on the network so we need to mine for it.
-6\. Finally Stop the mining and check balance of account 2.
+6. Finally Stop the mining and check balance of account 2.
 
 **Pre Requisite:**
 1. c compiler
